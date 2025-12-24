@@ -1,0 +1,8 @@
+{
+  "label": "Payment Acquirement",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Start to acquire payments from your users by integrating various payment gateways into your Strapi application. This section covers the setup and configuration of popular payment providers, enabling you to monetize your services effectively."
+  }
+}
