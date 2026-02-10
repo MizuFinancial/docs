@@ -68,6 +68,24 @@ const config: Config = {
           position: 'left',
           label: 'Tutorial',
         },
+        {
+          to: 'https://mizufinancial.com',
+          position: 'right',
+          label: 'Home',
+          target: '_self',
+        },
+        {
+          to: 'https://mizufinancial.com/insight',
+          position: 'right',
+          label: 'Insights',
+          target: '_self',
+        },
+        {
+          to: 'https://mizufinancial.com/contact',
+          position: 'right',
+          label: 'Request beta access',
+          target: '_self',
+        },
       ],
     },
     footer: {
