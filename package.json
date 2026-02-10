@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "start": "docusaurus start",
-    "build": "docusaurus build && mkdir -p dist && rm -rf dist/docs && cp -r build dist/docs",
+    "build": "docusaurus build && mkdir -p dist && mv build dist/docs",
     "swizzle": "docusaurus swizzle",
     "deploy": "docusaurus deploy",
     "clear": "docusaurus clear",
